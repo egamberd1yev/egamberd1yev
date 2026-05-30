@@ -54,8 +54,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=egamberd1yev&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egamberd1yev&theme=tokyonight)
-
 </div>
 
 ---
