@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jo'rabek%20Egamberdiyev&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Node.js%20%26%20React&descAlignY=55&descAlign=50)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jo'rabek%20Egamberdiyev&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Node.js%20%26%20React&descAlignY=55&descAlign=50)
 
 <div align="center">
 
@@ -22,15 +22,19 @@
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,typescript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=dark)](https://skillicons.dev)
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,postman,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -61,11 +65,11 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Egamberdiyev_J)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/egamberd1yev__j)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorabek-egamberdiyev-6347ba388/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=jorabekegamberdiyev12@gmail.com)
 
 </div>
-
 ---
 
 <div align="center">
